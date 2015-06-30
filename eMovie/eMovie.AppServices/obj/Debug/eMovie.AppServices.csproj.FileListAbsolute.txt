@@ -1,0 +1,1 @@
+C:\Users\code\Desktop\OnionMVC4\eMovie\eMovie.AppServices\obj\Debug\eMovie.AppServices.csprojResolveAssemblyReference.cache

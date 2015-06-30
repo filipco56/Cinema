@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMovie.Domain", "eMovie.Domain\eMovie.Domain.csproj", "{82F0A80E-58B7-4036-9A74-4F6760919DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMovie.Infrastracture", "eMovie.Infrastracture\eMovie.Infrastracture.csproj", "{94B11E0C-C1AC-4BEC-A9F5-5BB9FB166203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMovie.AppServices", "eMovie.AppServices\eMovie.AppServices.csproj", "{CE156710-F74F-43B7-B95A-4D2BCFC65D5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{438AB55D-A3AD-484A-AD6C-117FA3CE30F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMovie.Web", "eMovie.Web\eMovie.Web.csproj", "{C78D8D9B-D769-4294-8AE3-BE02257488C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F0A80E-58B7-4036-9A74-4F6760919DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F0A80E-58B7-4036-9A74-4F6760919DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F0A80E-58B7-4036-9A74-4F6760919DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F0A80E-58B7-4036-9A74-4F6760919DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B11E0C-C1AC-4BEC-A9F5-5BB9FB166203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B11E0C-C1AC-4BEC-A9F5-5BB9FB166203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B11E0C-C1AC-4BEC-A9F5-5BB9FB166203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B11E0C-C1AC-4BEC-A9F5-5BB9FB166203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE156710-F74F-43B7-B95A-4D2BCFC65D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE156710-F74F-43B7-B95A-4D2BCFC65D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE156710-F74F-43B7-B95A-4D2BCFC65D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE156710-F74F-43B7-B95A-4D2BCFC65D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78D8D9B-D769-4294-8AE3-BE02257488C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78D8D9B-D769-4294-8AE3-BE02257488C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78D8D9B-D769-4294-8AE3-BE02257488C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78D8D9B-D769-4294-8AE3-BE02257488C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C78D8D9B-D769-4294-8AE3-BE02257488C2} = {438AB55D-A3AD-484A-AD6C-117FA3CE30F3}
+	EndGlobalSection
+EndGlobal

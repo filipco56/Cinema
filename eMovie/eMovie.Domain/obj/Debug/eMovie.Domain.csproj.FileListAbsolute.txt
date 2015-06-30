@@ -1,0 +1,4 @@
+C:\Users\code\Desktop\OnionMVC4\eMovie\eMovie.Domain\bin\Debug\eMovie.Domain.dll
+C:\Users\code\Desktop\OnionMVC4\eMovie\eMovie.Domain\bin\Debug\eMovie.Domain.pdb
+C:\Users\code\Desktop\OnionMVC4\eMovie\eMovie.Domain\obj\Debug\eMovie.Domain.dll
+C:\Users\code\Desktop\OnionMVC4\eMovie\eMovie.Domain\obj\Debug\eMovie.Domain.pdb
